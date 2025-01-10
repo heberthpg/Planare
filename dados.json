@@ -1,0 +1,15 @@
+{
+    "tarefas": [
+        {
+            "titulo": "Estudar Python",
+            "descricao": "Aprofundar os conceitos de classes.",
+            "data_limite": "2025-01-10"
+        },
+        {
+            "titulo": "heberth",
+            "descricao": "estudar",
+            "data_limite": "2025-01-10"
+        }
+    ],
+    "reunioes": []
+}

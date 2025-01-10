@@ -1,0 +1,43 @@
+# created by virtualenv automatically
+*# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de configuração do editor
+
+
+# Logs e caches
+*.log
+*.cache
+*.bak
+*.swp
+
+# Arquivos específicos do sistema operacional
+*.~lock.*
+*~
+
+# Arquivos de dados locais
+dados.json
+
+# Arquivos do Git
+*.orig
+*.lock
+
+# Arquivos compactados e de pacotes
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
